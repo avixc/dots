@@ -15,10 +15,13 @@ alias ll='ls -la'
 bindkey "^[[H" beginning-of-line
 bindkey "^[[F" end-of-line
 
+# Clear terminal
+clear
+
 # Show a minimal prompt with this format {username}@{hostname}:{current_directory}$
 PROMPT='%n@ %~$ '
 # Show screen fetch every time the terminal opens
-screenfetch
+neofetch
 
 # Activate zoxide and set an alias for cd
 eval "$(zoxide init bash)"
