@@ -1,0 +1,14 @@
+base 3-2
+base-devel 1-2
+git 2.52.0-1
+grub-btrfs 4.14-1
+intel-ucode 20251111-1
+linux 6.17.8.arch1-1
+linux-firmware 20251111-1
+networkmanager 1.54.2-1
+openssh 10.2p1-2
+screenfetch 3.9.9-1
+sudo 1.9.17.p2-1
+vim 9.1.1908-1
+zoxide 0.9.8-2
+zsh 5.9-5
